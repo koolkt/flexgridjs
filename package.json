@@ -1,6 +1,6 @@
 {
   "name": "flexgridjs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "flexbox grid inline styles in js",
   "main": "index.js",
   "scripts": {
