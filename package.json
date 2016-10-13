@@ -1,0 +1,26 @@
+{
+  "name": "flexgridjs",
+  "version": "1.0.0",
+  "description": "flexbox grid inline styles in js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/koolkt/flexgridjs.git"
+  },
+  "keywords": [
+    "flexbox",
+    "js"
+  ],
+  "author": "koolkat",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/koolkt/flexgridjs/issues"
+  },
+  "homepage": "https://github.com/koolkt/flexgridjs#readme",
+  "dependencies": {
+    "decimal.js-light": "^1.0.4"
+  }
+}
